@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '9406'
     url: http://www.gutenberg.org/2009/agents/9406
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20587#Integration-of-the-Armed-Forces-1940-1965
 gutenberg_bookshelf: World War II
 gutenberg_issued: '2007-02-15'
 gutenberg_type: Text
