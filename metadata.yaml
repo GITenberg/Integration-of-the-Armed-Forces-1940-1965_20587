@@ -1,0 +1,28 @@
+_repo: Integration-of-the-Armed-Forces-1940-1965_20587
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacGregor, Morris J.
+    birthdate: 1931
+    gutenberg_agent_id: '9406'
+    url: http://www.gutenberg.org/2009/agents/9406
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2007-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20587'
+  lccn: '80607077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'UB'
+- !lcsh 'United States -- Race relations'
+- !lcsh 'African American soldiers'
+title: Integration of the Armed Forces, 1940-1965
+url: http://www.gutenberg.org/ebooks/20587
